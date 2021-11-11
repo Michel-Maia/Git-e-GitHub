@@ -1,5 +1,9 @@
-#Livro de Receitas :cozinheiro 
+#Git e GitHub 
 
-Olá! Bem vindo ao meu livro de receitas
+Desenvolvido durante a aula de Git e GitHub - Michel Maia 11/11/2021
+
+##Livro de Receitas :
 
  - Strogonoff de Frango
+ - Salada Caesar
+ 
